@@ -6,7 +6,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'MindFlow — Agentic AI Learning',
+  title: 'Tayyari.ai — Agentic AI Learning',
   description: 'Transform your learning materials into interactive, AI-powered learning experiences.',
 };
 
