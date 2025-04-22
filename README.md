@@ -67,3 +67,6 @@ Additionally, It prevents misinformation, enhances accessibility with text-to-sp
   <li>📊 <strong>Analytics & Learning Insights</strong><br>
       Provide in-depth progress tracking and performance analytics.</li>
 </ul>
+
+<h2> Demo Video </h2>
+https://drive.google.com/file/d/1UFxwsn_B1ucXtvMGAMOtNFW0qk1Lr0NM/view?usp=drive_link
